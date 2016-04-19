@@ -4,11 +4,14 @@
     font-family: fantasy;
     font-size: 20px;
     padding-left: 20%;
+    padding-top: 10%;
 }
 
 #divlink {
     text-align: right;
-    padding-right: 30%;
+    padding-right: 25%;
+    font-family: fantasy;
+    padding-bottom: 10px;
 }
 
 #divtable {
@@ -16,8 +19,27 @@
     float: inherit;
     margin: auto;
     padding: 30px;
+    padding-left: 5%;
+    background-color: aliceblue;
 }
 
 table {
+    border: 2px solid;
+    font-family: fantasy;
+}
+
+th{
+    border: 2px solid;
+}
+
+td {
     border: 1px solid;
+}
+
+body {
+    background-color: #a3cef8;
+}
+
+a {
+    color: black;
 }
