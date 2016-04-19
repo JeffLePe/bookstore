@@ -1,0 +1,23 @@
+#divtitle {
+    width: 100%;
+    float: left;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-left: 20%;
+}
+
+#divlink {
+    text-align: right;
+    padding-right: 30%;
+}
+
+#divtable {
+    width: 800px;
+    float: inherit;
+    margin: auto;
+    padding: 30px;
+}
+
+table {
+    border: 1px solid;
+}
