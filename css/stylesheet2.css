@@ -1,7 +1,7 @@
 #divtitle {
     width: 100%;
     float: left;
-    font-family: fantasy;
+    font-family: monospace;
     font-size: 20px;
     padding-left: 20%;
     padding-top: 10%;
@@ -10,7 +10,7 @@
 #divlink {
     text-align: right;
     padding-right: 25%;
-    font-family: fantasy;
+    font-family: monospace;
     padding-bottom: 10px;
 }
 
@@ -20,12 +20,12 @@
     margin: auto;
     padding: 30px;
     padding-left: 5%;
-    background-color: aliceblue;
+    background-color: #d9fdd9;
 }
 
 table {
     border: 2px solid;
-    font-family: fantasy;
+    font-family: monospace;
 }
 
 th{
@@ -37,7 +37,7 @@ td {
 }
 
 body {
-    background-color: #a3cef8;
+    background-color: #87d687;
 }
 
 a {
@@ -47,7 +47,7 @@ a {
 #divtitlebook {
     width: 100%;
     height: 10%;
-    font-family: fantasy;
+    font-family: monospace;
     font-size: 20px;
     padding-left: 22%;
 }
@@ -57,7 +57,7 @@ a {
     height: 450px;
     margin: auto;
     margin-top: 5%;
-    background-color: aliceblue;
+    background-color: #d9fdd9;
 }
 
 label {
@@ -85,13 +85,13 @@ textarea {
 #divinf{
     float: left;
     width: 50%;
-    background-color: aliceblue;
+    background-color: #d9fdd9;
 }
 
 #divdesc {
     float: right;
     width: 50%;
-    background-color: aliceblue;
+    background-color: #d9fdd9;
 }
 
 #button {
@@ -115,7 +115,7 @@ textarea {
 #divtitle3 {
     width: 100%;
     height: 10%;
-    font-family: fantasy;
+    font-family: monospace;
     font-size: 20px;
     padding-left: 22%;
 }
@@ -123,7 +123,7 @@ textarea {
 #divcenter {
     width: 800px;
     height: 500px;
-    background-color: aliceblue;
+    background-color: #d9fdd9;
     margin: auto;
     padding: 30px;
 }
